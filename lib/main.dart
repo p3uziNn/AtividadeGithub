@@ -30,7 +30,7 @@ class HomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Bem-vindo ao nosso app!', // 👈 parceiro muda
+              'Welcome ao nosso app!', // 👈 parceiro muda
               style: TextStyle(
                 fontSize: 26,
                 fontWeight: FontWeight.bold,
@@ -49,7 +49,7 @@ class HomePage extends StatelessWidget {
                 print('Botão clicado'); // depois dá pra evoluir
               },
               child: Text(
-                'Clique aqui', // 👈 parceiro muda
+                'Não clique aqui', // 👈 parceiro muda
                 style: TextStyle(fontSize: 18),
               ),
             ),
