@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gitgp
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# AtividadeGithub
+Pietro and Guilherme
+>>>>>>> 17a420615ef225e2a648c3fd221808676f9246e8
