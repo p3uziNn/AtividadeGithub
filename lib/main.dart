@@ -19,7 +19,7 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.deepPurple, // 👈 você pode mudar (layout)
+      backgroundColor: const Color.fromARGB(255, 192, 31, 31), // 👈 você pode mudar (layout)
       appBar: AppBar(
         title: Text('App da Dupla 🚀'), // 👈 parceiro muda (texto)
         centerTitle: true,
